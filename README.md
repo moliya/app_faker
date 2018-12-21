@@ -12,7 +12,7 @@ fastlane add_plugin app_faker
 
 ## About app_faker
 
-1
+快捷执行代码混淆命令
 
 **Note to author:** Add a more detailed description about this plugin here. If your plugin contains multiple actions, make sure to mention them here.
 
